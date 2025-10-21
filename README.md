@@ -18,4 +18,4 @@
 ![Задание на производственную практику](https://decodeit.ru/image.php?type=qr&value=https%3A%2F%2Fgithub.com%2Flogwinow%2Fmag-sem-3-practice%2Fblob%2Fmain%2F%25D0%2597%25D0%25B0%25D0%25B4%25D0%25B0%25D0%25BD%25D0%25B8%25D0%25B5%2520%25D0%25BD%25D0%25B0%2520%25D0%25BF%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D0%25BA%25D1%2583.docx)
 
 * ### **Отчёт о прохождении производственной практики** 
-![Отчёт о прохождении производственной практики]()
+![Отчёт о прохождении производственной практики](https://decodeit.ru/image.php?type=qr&value=https%3A%2F%2Fgithub.com%2Flogwinow%2Fmag-sem-3-practice%2Fblob%2Fmain%2F%25D0%259E%25D1%2582%25D1%2587%25D1%2591%25D1%2582%2520%25D0%25BF%25D0%25BE%2520%25D0%25BF%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D0%25BA%25D0%25B5.docx)
